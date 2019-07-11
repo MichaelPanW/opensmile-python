@@ -1,0 +1,23 @@
+[ 11.07.2019 - 22:47:45 ]
+    (MSG) [2] in SMILExtract : openSMILE starting!
+[ 11.07.2019 - 22:47:45 ]
+    (MSG) [2] in SMILExtract : config file is: config\smileF0.conf
+[ 11.07.2019 - 22:47:45 ]
+    (MSG) [2] in cComponentManager : successfully registered 95 component types.
+[ 11.07.2019 - 22:47:45 ]
+    (WARN) [1] in instance 'smoF0' : smaWin must be an uneven number >= 1 ! (increasing smaWin by 1 -> smaWin=3)
+[ 11.07.2019 - 22:47:45 ]
+    (MSG) [2] in instance 'lldarffsink' : No filename given, disabling this sink component.
+[ 11.07.2019 - 22:47:45 ]
+    (WARN) [2] in instance 'volmerge.reader' : Inconsistency in input level parameters. growDyn on first (#1) input = 0, growDyn on input # 2 (F0a) = 1. This might cause the processing to hang unpredictably or cause incomplete processing.
+[ 11.07.2019 - 22:47:45 ]
+    (WARN) [2] in instance 'volmerge.reader' : Inconsistency in input level parameters. isRb on first (#1) input = 1, isRb on input # 2 (F0a) = 0. This might cause the processing to hang unpredictably or cause incomplete processing.
+[ 11.07.2019 - 22:47:45 ]
+    (WARN) [1] in instance 'volmerge.reader' : Mismatch in input level buffer sizes (levelconf.nT). Level #1 has size 2 which is smaller than the max. input size of all input levels (100). This might cause the processing to hang unpredictably or cause incomplete processing.
+[ 11.07.2019 - 22:47:45 ]
+    (MSG) [2] in cComponentManager : successfully finished createInstances
+                                 (17 component instances were finalised, 1 data memories were finalised)
+[ 11.07.2019 - 22:47:45 ]
+    (MSG) [2] in cComponentManager : starting single thread processing loop
+[ 11.07.2019 - 22:47:45 ]
+    (MSG) [2] in cComponentManager : Processing finished! System ran for 3423 ticks.
