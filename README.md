@@ -6,6 +6,7 @@
 
 ```
 python main.py IS09_emotion
+python main.py emobase2010
 
 ```
 2. View output folder.
